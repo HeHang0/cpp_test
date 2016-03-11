@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Super.cpp
+f:\programming\c++_test\super\super.cpp(16): error C3861: “sleep”: 找不到标识符
+  People.cpp
+  man.cpp
+  正在生成代码...
